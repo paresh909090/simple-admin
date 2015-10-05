@@ -1,0 +1,14 @@
+{
+    "name": "paresh/simple-admin",
+    "description": "This is just a test package for displaying all users of our App.",
+    "type": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paresh Chouhan",
+            "email": "paresh.chouhan@sofmen.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
