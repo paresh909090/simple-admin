@@ -9,6 +9,11 @@
             "email": "paresh.chouhan@sofmen.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Paresh\\SimpleAdmin\\": "vendor/paresh/simple-admin/src"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
